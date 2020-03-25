@@ -5,12 +5,12 @@
 ## Introduction
 
 * [Quick start](introduction/quick-start.md)
-* [Why this wiki?](why-this-wiki.md)
+* [Why this wiki?](introduction/why-this-wiki.md)
 
 ## Methodology
 
 * [Measure me](methodology/measure-me.md)
-* [Measure some more](measure-some-more.md)
+* [Measure some more](methodology/measure-some-more.md)
 
 ## Results
 
