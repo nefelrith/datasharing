@@ -1,8 +1,18 @@
 # Table of contents
 
 * [README](README.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled/README.md)
-  * [Untitled](untitled/untitled/README.md)
-    * [Untitled](untitled/untitled/untitled.md)
+
+## Introduction
+
+* [Quick start](introduction/quick-start.md)
+* [Why this wiki?](why-this-wiki.md)
+
+## Methodology
+
+* [Measure me](methodology/measure-me.md)
+* [Measure some more](measure-some-more.md)
+
+## Results
+
+* [Here are some plots](results/here-are-some-plots.md)
 
